@@ -5,11 +5,11 @@ For more details regarding the telegram API, see the following [documentation](h
 
 The following commands are currently available:
 
-**/help** - List of the commands
-**/balance** - Node's balance 
-**/balance**_address - Address balance 
-**/head** - Last chain height
-**/header_number** - Specific block height
+**/help** - List of the commands\
+**/balance** - Node's balance\
+**/balance**_address - Address balance\
+**/head** - Last chain height\
+**/header_number** - Specific block height\
 **/celestia** - Learn what is Celestia
 
 If you want to use it for your node you need to make the following changes:
