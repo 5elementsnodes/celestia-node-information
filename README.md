@@ -7,7 +7,7 @@ It's a simple telegram chatbot that allows you to make rpc calls to the celestia
 How to use it is extremely simple, just have a telegram account and start a conversation with the chabot.\
 It is currently active [here](https://telegram.me/celestia_nodeinfo_bot).
 
-The following **commands** are currently available:
+#### Available Commands
 
 **/help** - List of the commands\
 **/balance** - Node's balance\
@@ -16,10 +16,12 @@ The following **commands** are currently available:
 **/header_number** - Specific block height\
 **/celestia** - Learn what is Celestia
 
-If you want to use it for your node you need to make the following changes:
+### Setup
 
-- set **$nodeurl** with the url of your fullnode
-- set **$token** with your chatbot's token, created thanks to [BotFather](https://telegram.me/BotFather)
+If you want to use this chatbot for your own node, you will need to make the following changes:
+
+1. Set $nodeurl with the URL of your full node.
+2. Set $token with your chatbot's token, which can be created using [BotFather](https://telegram.me/BotFather)
 
 ### Technologies Used
 
