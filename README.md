@@ -1,6 +1,6 @@
 # Celestia Node Information
 
-It's a simple telegram chatbot that allows you to make rpc calls to the celestia full node of 5 Elements Nodes.\
+It's a simple telegram chatbot that allows you to make rpc calls to the celestia full node of 5 Elements Nodes.
 
 ### How to Use
 
